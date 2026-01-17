@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>sys_connection</connection_type>
+        <id>Git</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>Git</name>
+        <parent/>
+        <retry_policy display_value="Default SFTP Retry Policy">e385484773100010e3a71afe2ff6a709</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-16 14:09:23</sys_created_on>
+        <sys_id>a3e05ca02f623a1024a8dd0cbfa4e30c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Git</sys_name>
+        <sys_package display_value="SCI" source="9ba0dc602f623a1024a8dd0cbfa4e368">9ba0dc602f623a1024a8dd0cbfa4e368</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SCI">9ba0dc602f623a1024a8dd0cbfa4e368</sys_scope>
+        <sys_update_name>sys_alias_a3e05ca02f623a1024a8dd0cbfa4e30c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-16 14:09:23</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SCI">9ba0dc602f623a1024a8dd0cbfa4e368</application>
+        <file_path/>
+        <instance_id>db127f8e3bda7690986d048aa4e45a18</instance_id>
+        <instance_name>empknagaramu1</instance_name>
+        <name>sys_alias_a3e05ca02f623a1024a8dd0cbfa4e30c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>sys_connection</connection_type><id>Git</id><is_internal>false</is_internal><multiple_connections>false</multiple_connections><name>Git</name><parent/><retry_policy display_value="Default SFTP Retry Policy">e385484773100010e3a71afe2ff6a709</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-01-16 14:09:23</sys_created_on><sys_id>a3e05ca02f623a1024a8dd0cbfa4e30c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Git</sys_name><sys_package display_value="SCI" source="9ba0dc602f623a1024a8dd0cbfa4e368">9ba0dc602f623a1024a8dd0cbfa4e368</sys_package><sys_policy/><sys_scope display_value="SCI">9ba0dc602f623a1024a8dd0cbfa4e368</sys_scope><sys_update_name>sys_alias_a3e05ca02f623a1024a8dd0cbfa4e30c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-01-16 14:09:23</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>92280768</payload_hash>
+        <record_name>Git</record_name>
+        <reverted_from/>
+        <source>be31cbba2f9a72100ff50f0cbfa4e3d4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-16 14:09:23</sys_created_on>
+        <sys_id>e40154e02f623a1024a8dd0cbfa4e37c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19bc723affc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-16 14:09:23</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>a0015ca02e623a1059bb7ccb5811b120</update_guid>
+        <update_guid_history>a0015ca02e623a1059bb7ccb5811b120:92280768</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-16 14:14:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>06dac9c3b3c644ed92070d95bf578f79</sys_id>
+        <sys_metadata>a3e05ca02f623a1024a8dd0cbfa4e30c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Git</sys_name>
+        <sys_package display_value="SCI" source="9ba0dc602f623a1024a8dd0cbfa4e368">9ba0dc602f623a1024a8dd0cbfa4e368</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SCI">9ba0dc602f623a1024a8dd0cbfa4e368</sys_scope>
+        <sys_scope_delete display_value="">9ebcf72ca3014ddcb81749a59543bc10</sys_scope_delete>
+        <sys_update_name>sys_alias_a3e05ca02f623a1024a8dd0cbfa4e30c</sys_update_name>
+        <sys_update_version display_value="sys_alias_a3e05ca02f623a1024a8dd0cbfa4e30c">e40154e02f623a1024a8dd0cbfa4e37c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-16 14:14:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
